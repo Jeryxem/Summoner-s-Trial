@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: All Sprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7cade6b911f665146b2b2e98215f6c56, type: 3}
+    - {fileID: 102900000, guid: 8b4f551fb16d75943899ae245bdc1b79, type: 3}
+    - {fileID: 2800000, guid: d82a412f1e07c86468b52163ad872264, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 30d7970073bd1fc42953e14702d4bd55, type: 3}
+  - {fileID: 21300000, guid: 6bd52f00dcc992746a7f9e03842b1c72, type: 3}
+  - {fileID: 21300000, guid: fd6e62e05d67b434baa42b2a12b6e6ab, type: 3}
+  - {fileID: 21300000, guid: 52d262f0a00ce444c89393602f54e2b5, type: 3}
+  - {fileID: 21300000, guid: e47693213e5774742bb12e9a926b2e87, type: 3}
+  - {fileID: 21300000, guid: 0ef014921b6d4ac4cb39ef8fa230ee58, type: 3}
+  - {fileID: 21300000, guid: d8d5f5a2de07df643b4ad28dce0f8f4b, type: 3}
+  - {fileID: 21300000, guid: 6322aac22524c7f4983af6ed11ef2779, type: 3}
+  - {fileID: 21300000, guid: 3b5a2ed2831881c41974356f8ed257cb, type: 3}
+  - {fileID: 21300000, guid: a4329fa38bb27c4478f82f9baef9b2af, type: 3}
+  - {fileID: 21300000, guid: 861ae2c3d82e97f439fb8a0066783fda, type: 3}
+  - {fileID: 21300000, guid: 4a0037c3232c15745954e7cb51601f0e, type: 3}
+  - {fileID: 21300000, guid: e0abf9e3d192f1846a0cafa294594e48, type: 3}
+  - {fileID: 21300000, guid: 45ededf39ee91154a9aaef8db78f3306, type: 3}
+  - {fileID: 21300000, guid: 3e4f8d544a3d47549a3ee0211c2e9097, type: 3}
+  - {fileID: 21300000, guid: 89fed8b45cd3db74a9f7de6f20033bd2, type: 3}
+  - {fileID: 21300000, guid: 754acc65813c9554480aac6dc78e8d2f, type: 3}
+  - {fileID: 21300000, guid: 6156b6e5732b9654b8a832eac235fbd1, type: 3}
+  - {fileID: 21300000, guid: 70f49d060ad51f047af819f911be5d92, type: 3}
+  - {fileID: 21300000, guid: 81f1eb56073109e4586f66a852df5a98, type: 3}
+  - {fileID: 21300000, guid: be370d564a1573d46b2c1b1b79ad4a86, type: 3}
+  - {fileID: 21300000, guid: 3a0a2d5688e1d3045912178b23a15d2c, type: 3}
+  - {fileID: 21300000, guid: 4dbb6a66524f8dc458dd8996f5a2915f, type: 3}
+  - {fileID: 21300000, guid: e4ac8707f481cad4fa158f2f63b610f4, type: 3}
+  - {fileID: 21300000, guid: 510df967f5a43904ebfd540ea12670c3, type: 3}
+  - {fileID: 21300000, guid: 5591f77702de4fa44ae3091b41cc67be, type: 3}
+  - {fileID: 21300000, guid: 7172c087640a5eb4e907030984c34e70, type: 3}
+  - {fileID: 21300000, guid: af582fd7748df514d92070d5019a847a, type: 3}
+  - {fileID: 21300000, guid: a73588e7c04750a4eb5563683cdab9bf, type: 3}
+  - {fileID: 21300000, guid: c54ed548ecd12044dad3221e161c3a65, type: 3}
+  - {fileID: 21300000, guid: e07912e82d86b2143b59225fa239f893, type: 3}
+  - {fileID: 21300000, guid: aaae6a49aa18a6c40aea2eb032aa2384, type: 3}
+  - {fileID: 21300000, guid: 68303f690201d2b4097bb8981fba69af, type: 3}
+  - {fileID: 21300000, guid: ce879599e4006774faea41ee7ae76121, type: 3}
+  - {fileID: 21300000, guid: 105c26c975ac8fd4291cc91eb4742fab, type: 3}
+  - {fileID: 21300000, guid: 180383d9bfeb6a94080f221686776a32, type: 3}
+  - {fileID: 21300000, guid: efecec2a45a5e5d45891141ac7545da7, type: 3}
+  - {fileID: 21300000, guid: 243a0daae559be44a9891a62acbf8e4c, type: 3}
+  - {fileID: 21300000, guid: dcab40ba955d0e64f9d217508e9c8a99, type: 3}
+  - {fileID: 21300000, guid: e48586ca0a449b949a4d80466b3641bc, type: 3}
+  - {fileID: 21300000, guid: c6b676ea5ac6770408ba893be5a5a080, type: 3}
+  - {fileID: 21300000, guid: 6b0dbaea72b651045844c0ec952285cf, type: 3}
+  - {fileID: 21300000, guid: 534b3a6b99a21a04a8f7deafd571e79b, type: 3}
+  - {fileID: 21300000, guid: 7e1c50eb4c7467640b0156464a8f960b, type: 3}
+  - {fileID: 21300000, guid: 3956485c69b567b46b4787642a5c1938, type: 3}
+  - {fileID: 21300000, guid: d45bf39c180f6e344a890f8d7e28aa32, type: 3}
+  - {fileID: 21300000, guid: 93e9486dd44d3934bb1438c19acdf1b5, type: 3}
+  - {fileID: 21300000, guid: 9ea66fbd3dfb5e946bbd846c4c77329b, type: 3}
+  - {fileID: 21300000, guid: 249da24ef9d7fd746be92771f4d21bbb, type: 3}
+  - {fileID: 21300000, guid: 4db8ea7e391f3374cbfc12471af84c1e, type: 3}
+  - {fileID: 21300000, guid: 8470ca9e0e79ef34f89261d9de93aa9b, type: 3}
+  - {fileID: 21300000, guid: d82a412f1e07c86468b52163ad872264, type: 3}
+  - {fileID: 21300000, guid: f9adf14f221e0774487ffbf786654ccd, type: 3}
+  - {fileID: 21300000, guid: ad013e6fbe5bf634b9c2d021096c6c83, type: 3}
+  - {fileID: 21300000, guid: 60b672bf88daa6d4aa61547a4c58ee6f, type: 3}
+  - {fileID: 21300000, guid: 4b6279cfd1104d341a7cedd07dc154d7, type: 3}
+  - {fileID: 21300000, guid: bc606edf127616342b2bb56c96021b8a, type: 3}
+  - {fileID: 21300000, guid: 30fabbefb4ac81946b25e79f5af7478c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Goblin Mage
+  - Clockwork Slime
+  - Ice Avian
+  - Ice Whisp
+  - Earth Mandrake
+  - Clockwork Iron Maiden
+  - Fire Volcanic Maiden
+  - Legendary Knights Summoner Dante A
+  - Ice Ogre
+  - Darkness Ogre
+  - Fire Elemental Bat
+  - Forest Fairy Filia
+  - Darkness Wisp
+  - Arcane Orb Wind
+  - Forest Kawabun
+  - Light Wisp
+  - Earth Lion
+  - Fire Bull
+  - Goblin Grunt
+  - Ice Bull
+  - Arcane Orb Fire
+  - Goblin Archer
+  - Fire Ogre
+  - Clockwork Mini A
+  - Fire Elemental  Imp
+  - Forest Golem
+  - Clockwork Spider Mini
+  - Fire Minivolcano
+  - Arcane Crystal Magic Circle
+  - Flame Knight
+  - Ice Lion
+  - Fire Elemental Angel
+  - Forest Shroom
+  - Ice Yeti
+  - Cyber Hawk
+  - Ice Cave Bat
+  - Cyber Ogre
+  - Clockwork Knight B
+  - Earth Bush Wisp
+  - Forest Darkluff
+  - Earth Turtle
+  - Forest Spider
+  - Arcane Crystal
+  - Fire Lion
+  - Light Wolf
+  - Cyber Pegasus
+  - Light Slime
+  - Cyber Slime
+  - Slime Iceii
+  - Ice Turtle
+  - Fire Wisp
+  - Objects Dorian
+  - Forest Spora
+  - Ice Snowman
+  - Fire Vulture
+  - Darkness Slime
+  - Arcane Orb Thunder
+  - Arcane Orb Frost
+  m_RenderDataMap: {}
+  m_Tag: All Sprites
+  m_IsVariant: 0

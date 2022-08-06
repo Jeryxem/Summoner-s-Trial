@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lvl_0_MainMenu.unity
+    guid: bfda73bb00b4e584f84769c83ff4557e
+  - enabled: 1
+    path: Assets/Scenes/Lvl_1_Wisp.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Lvl_2_Goblins.unity
+    guid: 162e9f07e7553cb4c9844230c617f395
+  - enabled: 1
+    path: Assets/Scenes/Lvl_3_Slimes.unity
+    guid: 0760e6c095748ea48ae029853cc05b7e
+  - enabled: 1
+    path: Assets/Scenes/Lvl_4_FireBuffing.unity
+    guid: bd4c80cce2ff017408cb900b7586cec4
+  - enabled: 1
+    path: Assets/Scenes/Lvl_5_FireBuffing2.unity
+    guid: 2d653aeaced04c3428cb03cef0a5a4e2
+  - enabled: 1
+    path: Assets/Scenes/Lvl_6_HighLevelFire.unity
+    guid: db1bd7a100bed1943b8d0e9da14eda0a
+  - enabled: 1
+    path: Assets/Scenes/Lvl_7_FrostDebuff.unity
+    guid: 352894e7f1a174c479384f5fa1950930
+  - enabled: 1
+    path: Assets/Scenes/Lvl_8_FrostDebuff2.unity
+    guid: 68b217134d52b7e46a506381b8f81284
+  - enabled: 1
+    path: Assets/Scenes/Lvl_9_HighLevelFrost.unity
+    guid: ae20f36f4bcedf74a814dacd6eeed2d6
+  - enabled: 1
+    path: Assets/Scenes/Lvl_10_ThunderOrbSlimes.unity
+    guid: 0f661cbde4d85df4d8fc3685c98f626e
+  - enabled: 1
+    path: Assets/Scenes/Lvl_11_ThunderOrbMix.unity
+    guid: c82f977654685ef40990472670838619
+  - enabled: 1
+    path: Assets/Scenes/Lvl_12_HighLevelThunder.unity
+    guid: bce201e7bd50d9447b5277b7c25e2bbf
+  - enabled: 1
+    path: Assets/Scenes/Lvl_13_WindOrbEarthHealing.unity
+    guid: ce20578550ddfef418d29eee84307998
+  - enabled: 1
+    path: Assets/Scenes/Lvl_14_WindOrbForestMix.unity
+    guid: 4de74487d474f4e40a53f2d21927dc4d
+  - enabled: 1
+    path: Assets/Scenes/Lvl_15_HighLevelWind.unity
+    guid: c63925dd33a141645a01db89f4562efa
+  - enabled: 1
+    path: Assets/Scenes/Lvl_Z_Credits.unity
+    guid: 9d50c4ac1e8038e4ebd4daaf7300b6ad
+  m_configObjects: {}

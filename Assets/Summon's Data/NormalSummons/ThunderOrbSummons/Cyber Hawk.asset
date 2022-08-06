@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3b9f52d6f65cd42800457cde21883c, type: 3}
+  m_Name: Cyber Hawk
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 105c26c975ac8fd4291cc91eb4742fab, type: 3}
+  name: Cyber Hawk
+  description: 
+  prefab: {fileID: 8123668326389761968, guid: 7ffeb0867a1315548a2a4df6ac8d9d2b, type: 3}
+  hp: 200
+  attack: 200
+  moveDistance: 3
+  attackDistance: 1
+  summonEffect: Deal 200 damage to a random enemy
+  attackEffect: 1 adjacent space
+  captureEffect: 1 adjacent space
+  defendEffect: 1 adjacent space
+  deathEffect: none

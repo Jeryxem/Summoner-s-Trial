@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3b9f52d6f65cd42800457cde21883c, type: 3}
+  m_Name: CrystalOrb-EnemyBoss
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 534b3a6b99a21a04a8f7deafd571e79b, type: 3}
+  name: 
+  description: 
+  prefab: {fileID: 7158085350842931356, guid: 0ddd9908c381c7f48a2a41ac25e18d2d, type: 3}
+  hp: 1500
+  attack: 500
+  moveDistance: 0
+  attackDistance: 1
+  summonEffect: 
+  attackEffect: 
+  captureEffect: 
+  defendEffect: 
+  deathEffect: 

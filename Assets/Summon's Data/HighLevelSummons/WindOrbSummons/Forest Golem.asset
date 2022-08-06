@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e3b9f52d6f65cd42800457cde21883c, type: 3}
+  m_Name: Forest Golem
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 5591f77702de4fa44ae3091b41cc67be, type: 3}
+  name: Forest Golem
+  description: 
+  prefab: {fileID: 5386416154282448193, guid: fbd0e61d6ff42b3409ea43ec1b0c44ae, type: 3}
+  hp: 1600
+  attack: 800
+  moveDistance: 1
+  attackDistance: 1
+  summonEffect: Sacrifice 500 hp to summon
+  attackEffect: 1 adjacent space
+  captureEffect: 1 adjacent space
+  defendEffect: 1 adjacent space
+  deathEffect: Heal 500 hp to player
